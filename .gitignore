@@ -1,0 +1,41 @@
+# Composer
+/vendor/
+composer.lock
+
+# Конфиденциальные данные
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs/
+*.log
+
+# Database files
+*.sqlite
+*.db
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# Build artifacts
+/build/
+/dist/
+/node_modules/
+
+# Custom database files (optional - если не хотите коммитить базу)
+# database.json
