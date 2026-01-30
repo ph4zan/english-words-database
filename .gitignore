@@ -1,9 +1,7 @@
-# Создать .gitignore с правилом
-@"
-# Игнорировать ВСЕ файлы в папке
+﻿# гнорировать всё
 *
 
-# НЕ игнорировать эти файлы (исключения)
+# о  игнорировать эти файлы:
 !database.json
 !.gitignore
-"@ | Out-File -FilePath .gitignore -Encoding UTF8
+!README.md
