@@ -1,79 +1,80 @@
-{
-    "metadata": {
-        "total_words": 7,
-        "export_date": "2026-01-30 11:19:31",
-        "format_version": "1.0"
-    },
-    "words": [
-        {
-            "word": "beautiful",
-            "lemma": "beautiful",
-            "pos": "adj",
-            "pos_full": "adjective",
-            "translation": "красивый",
-            "transcription": "ˈbyo͞odəfəl",
-            "timestamp": 1769712572,
-            "date": "2026-01-29"
-        },
-        {
-            "word": "crabbed",
-            "lemma": "crabbed",
-            "pos": "adj",
-            "pos_full": "adjective",
-            "translation": "раздраженный",
-            "transcription": "ˈkrabəd",
-            "timestamp": 1769681172,
-            "date": "2026-01-29"
-        },
-        {
-            "word": "grievance",
-            "lemma": "grievance",
-            "pos": "n",
-            "pos_full": "noun",
-            "translation": "обида",
-            "transcription": "ˈɡrēv(ə)ns",
-            "timestamp": 1769681174,
-            "date": "2026-01-29"
-        },
-        {
-            "word": "initialize",
-            "lemma": "initialize",
-            "pos": "v",
-            "pos_full": "verb",
-            "translation": "инициализировать",
-            "transcription": "iˈniSHəˌlīz",
-            "timestamp": 1769681177,
-            "date": "2026-01-29"
-        },
-        {
-            "word": "run",
-            "lemma": "run",
-            "pos": "v",
-            "pos_full": "verb",
-            "translation": "бегать",
-            "transcription": "rən",
-            "timestamp": 1769712570,
-            "date": "2026-01-29"
-        },
-        {
-            "word": "spelling",
-            "lemma": "spell",
-            "pos": "n",
-            "pos_full": "noun",
-            "translation": "написание",
-            "transcription": "ˈspeliNG",
-            "timestamp": 1769681169,
-            "date": "2026-01-29"
-        },
-        {
-            "word": "writing",
-            "lemma": "write",
-            "pos": "adj",
-            "pos_full": "adjective",
-            "translation": "письмо",
-            "transcription": "ˈrīdiNG",
-            "timestamp": 1769681167,
-            "date": "2026-01-29"
-        }
-    ]
+﻿{
+    "metadata":  {
+                     "total_words":  7,
+                     "export_date":  "2026-01-30 11:19:31",
+                     "format_version":  "1.0",
+                     "test_update":  "2026-01-30 12:16:26"
+                 },
+    "words":  [
+                  {
+                      "word":  "beautiful",
+                      "lemma":  "beautiful",
+                      "pos":  "adj",
+                      "pos_full":  "adjective",
+                      "translation":  "РєСЂР°СЃРёРІС‹Р№",
+                      "transcription":  "Л€byoНћodЙ™fЙ™l",
+                      "timestamp":  1769712572,
+                      "date":  "2026-01-29"
+                  },
+                  {
+                      "word":  "crabbed",
+                      "lemma":  "crabbed",
+                      "pos":  "adj",
+                      "pos_full":  "adjective",
+                      "translation":  "СЂР°Р·РґСЂР°Р¶РµРЅРЅС‹Р№",
+                      "transcription":  "Л€krabЙ™d",
+                      "timestamp":  1769681172,
+                      "date":  "2026-01-29"
+                  },
+                  {
+                      "word":  "grievance",
+                      "lemma":  "grievance",
+                      "pos":  "n",
+                      "pos_full":  "noun",
+                      "translation":  "РѕР±РёРґР°",
+                      "transcription":  "Л€ЙЎrД“v(Й™)ns",
+                      "timestamp":  1769681174,
+                      "date":  "2026-01-29"
+                  },
+                  {
+                      "word":  "initialize",
+                      "lemma":  "initialize",
+                      "pos":  "v",
+                      "pos_full":  "verb",
+                      "translation":  "РёРЅРёС†РёР°Р»РёР·РёСЂРѕРІР°С‚СЊ",
+                      "transcription":  "iЛ€niSHЙ™ЛЊlД«z",
+                      "timestamp":  1769681177,
+                      "date":  "2026-01-29"
+                  },
+                  {
+                      "word":  "run",
+                      "lemma":  "run",
+                      "pos":  "v",
+                      "pos_full":  "verb",
+                      "translation":  "Р±РµРіР°С‚СЊ",
+                      "transcription":  "rЙ™n",
+                      "timestamp":  1769712570,
+                      "date":  "2026-01-29"
+                  },
+                  {
+                      "word":  "spelling",
+                      "lemma":  "spell",
+                      "pos":  "n",
+                      "pos_full":  "noun",
+                      "translation":  "РЅР°РїРёСЃР°РЅРёРµ",
+                      "transcription":  "Л€speliNG",
+                      "timestamp":  1769681169,
+                      "date":  "2026-01-29"
+                  },
+                  {
+                      "word":  "writing",
+                      "lemma":  "write",
+                      "pos":  "adj",
+                      "pos_full":  "adjective",
+                      "translation":  "РїРёСЃСЊРјРѕ",
+                      "transcription":  "Л€rД«diNG",
+                      "timestamp":  1769681167,
+                      "date":  "2026-01-29"
+                  }
+              ]
 }
