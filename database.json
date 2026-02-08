@@ -1,80 +1,219 @@
-﻿{
-    "metadata":  {
-                     "total_words":  7,
-                     "export_date":  "2026-01-30 11:19:31",
-                     "format_version":  "1.0",
-                     "test_update":  "2026-01-30 12:16:26"
-                 },
-    "words":  [
-                  {
-                      "word":  "beautiful",
-                      "lemma":  "beautiful",
-                      "pos":  "adj",
-                      "pos_full":  "adjective",
-                      "translation":  "РєСЂР°СЃРёРІС‹Р№",
-                      "transcription":  "Л€byoНћodЙ™fЙ™l",
-                      "timestamp":  1769712572,
-                      "date":  "2026-01-29"
-                  },
-                  {
-                      "word":  "crabbed",
-                      "lemma":  "crabbed",
-                      "pos":  "adj",
-                      "pos_full":  "adjective",
-                      "translation":  "СЂР°Р·РґСЂР°Р¶РµРЅРЅС‹Р№",
-                      "transcription":  "Л€krabЙ™d",
-                      "timestamp":  1769681172,
-                      "date":  "2026-01-29"
-                  },
-                  {
-                      "word":  "grievance",
-                      "lemma":  "grievance",
-                      "pos":  "n",
-                      "pos_full":  "noun",
-                      "translation":  "РѕР±РёРґР°",
-                      "transcription":  "Л€ЙЎrД“v(Й™)ns",
-                      "timestamp":  1769681174,
-                      "date":  "2026-01-29"
-                  },
-                  {
-                      "word":  "initialize",
-                      "lemma":  "initialize",
-                      "pos":  "v",
-                      "pos_full":  "verb",
-                      "translation":  "РёРЅРёС†РёР°Р»РёР·РёСЂРѕРІР°С‚СЊ",
-                      "transcription":  "iЛ€niSHЙ™ЛЊlД«z",
-                      "timestamp":  1769681177,
-                      "date":  "2026-01-29"
-                  },
-                  {
-                      "word":  "run",
-                      "lemma":  "run",
-                      "pos":  "v",
-                      "pos_full":  "verb",
-                      "translation":  "Р±РµРіР°С‚СЊ",
-                      "transcription":  "rЙ™n",
-                      "timestamp":  1769712570,
-                      "date":  "2026-01-29"
-                  },
-                  {
-                      "word":  "spelling",
-                      "lemma":  "spell",
-                      "pos":  "n",
-                      "pos_full":  "noun",
-                      "translation":  "РЅР°РїРёСЃР°РЅРёРµ",
-                      "transcription":  "Л€speliNG",
-                      "timestamp":  1769681169,
-                      "date":  "2026-01-29"
-                  },
-                  {
-                      "word":  "writing",
-                      "lemma":  "write",
-                      "pos":  "adj",
-                      "pos_full":  "adjective",
-                      "translation":  "РїРёСЃСЊРјРѕ",
-                      "transcription":  "Л€rД«diNG",
-                      "timestamp":  1769681167,
-                      "date":  "2026-01-29"
-                  }
-              ]
+{
+    "metadata": {
+        "total_words": 21,
+        "export_date": "2026-02-08 10:21:17",
+        "format_version": "1.0"
+    },
+    "words": [
+        {
+            "word": "and",
+            "lemma": "and",
+            "pos": "conjunction",
+            "pos_full": "conjunction",
+            "translation": "и",
+            "transcription": "an(d)",
+            "timestamp": 1770538145,
+            "date": "2026-02-08"
+        },
+        {
+            "word": "beautiful",
+            "lemma": "beautiful",
+            "pos": "adj",
+            "pos_full": "adjective",
+            "translation": "красивый",
+            "transcription": "ˈbyo͞odəfəl",
+            "timestamp": 1769712572,
+            "date": "2026-01-29"
+        },
+        {
+            "word": "born",
+            "lemma": "born",
+            "pos": "adj",
+            "pos_full": "adjective",
+            "translation": "рожденный",
+            "transcription": "bôrn",
+            "timestamp": 1770538154,
+            "date": "2026-02-08"
+        },
+        {
+            "word": "brothers",
+            "lemma": "brother",
+            "pos": "n",
+            "pos_full": "noun",
+            "translation": "братья",
+            "transcription": "",
+            "timestamp": 1770538143,
+            "date": "2026-02-08"
+        },
+        {
+            "word": "crabbed",
+            "lemma": "crabbed",
+            "pos": "adj",
+            "pos_full": "adjective",
+            "translation": "раздраженный",
+            "transcription": "ˈkrabəd",
+            "timestamp": 1769681172,
+            "date": "2026-01-29"
+        },
+        {
+            "word": "grievance",
+            "lemma": "grievance",
+            "pos": "n",
+            "pos_full": "noun",
+            "translation": "обида",
+            "transcription": "ˈɡrēv(ə)ns",
+            "timestamp": 1769681174,
+            "date": "2026-01-29"
+        },
+        {
+            "word": "have",
+            "lemma": "have",
+            "pos": "v",
+            "pos_full": "verb",
+            "translation": "иметь",
+            "transcription": "hav",
+            "timestamp": 1770538139,
+            "date": "2026-02-08"
+        },
+        {
+            "word": "house",
+            "lemma": "house",
+            "pos": "n",
+            "pos_full": "noun",
+            "translation": "дом",
+            "transcription": "",
+            "timestamp": 1770538131,
+            "date": "2026-02-08"
+        },
+        {
+            "word": "initialize",
+            "lemma": "initialize",
+            "pos": "v",
+            "pos_full": "verb",
+            "translation": "инициализировать",
+            "transcription": "iˈniSHəˌlīz",
+            "timestamp": 1769681177,
+            "date": "2026-01-29"
+        },
+        {
+            "word": "last",
+            "lemma": "late",
+            "pos": "adj",
+            "pos_full": "adjective",
+            "translation": "последний",
+            "transcription": "last",
+            "timestamp": 1770538156,
+            "date": "2026-02-08"
+        },
+        {
+            "word": "live",
+            "lemma": "live",
+            "pos": "adj",
+            "pos_full": "adjective",
+            "translation": "жить",
+            "transcription": "liv",
+            "timestamp": 1770538128,
+            "date": "2026-02-08"
+        },
+        {
+            "word": "mountains",
+            "lemma": "mountain",
+            "pos": "n",
+            "pos_full": "noun",
+            "translation": "горы",
+            "transcription": "",
+            "timestamp": 1770538137,
+            "date": "2026-02-08"
+        },
+        {
+            "word": "near",
+            "lemma": "near",
+            "pos": "preposition",
+            "pos_full": "preposition",
+            "translation": "около",
+            "transcription": "nir",
+            "timestamp": 1770538133,
+            "date": "2026-02-08"
+        },
+        {
+            "word": "one",
+            "lemma": "one",
+            "pos": "pronoun",
+            "pos_full": "pronoun",
+            "translation": "один",
+            "transcription": "wən",
+            "timestamp": 1770538147,
+            "date": "2026-02-08"
+        },
+        {
+            "word": "run",
+            "lemma": "run",
+            "pos": "v",
+            "pos_full": "verb",
+            "translation": "бегать",
+            "transcription": "rən",
+            "timestamp": 1769712570,
+            "date": "2026-01-29"
+        },
+        {
+            "word": "sister",
+            "lemma": "sister",
+            "pos": "n",
+            "pos_full": "noun",
+            "translation": "сестра",
+            "transcription": "ˈsistər",
+            "timestamp": 1770538150,
+            "date": "2026-02-08"
+        },
+        {
+            "word": "spelling",
+            "lemma": "spell",
+            "pos": "n",
+            "pos_full": "noun",
+            "translation": "написание",
+            "transcription": "ˈspeliNG",
+            "timestamp": 1769681169,
+            "date": "2026-01-29"
+        },
+        {
+            "word": "the",
+            "lemma": "the",
+            "pos": "unknown",
+            "pos_full": "unknown",
+            "translation": "тот",
+            "transcription": "T͟Hē",
+            "timestamp": 1770538135,
+            "date": "2026-02-08"
+        },
+        {
+            "word": "two",
+            "lemma": "two",
+            "pos": "n",
+            "pos_full": "noun",
+            "translation": "два",
+            "transcription": "to͞o",
+            "timestamp": 1770538141,
+            "date": "2026-02-08"
+        },
+        {
+            "word": "was",
+            "lemma": "was",
+            "pos": "v",
+            "pos_full": "verb",
+            "translation": "был",
+            "transcription": "wəz",
+            "timestamp": 1770538152,
+            "date": "2026-02-08"
+        },
+        {
+            "word": "writing",
+            "lemma": "write",
+            "pos": "adj",
+            "pos_full": "adjective",
+            "translation": "письмо",
+            "transcription": "ˈrīdiNG",
+            "timestamp": 1769681167,
+            "date": "2026-01-29"
+        }
+    ]
 }
